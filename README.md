@@ -1,8 +1,8 @@
 ### Hi there 👋
 
-### i am cse undergrad at bit mesra.
-### i am web developer capable of working with the variety of tecnologies in the mern stack.
-### i like playing chess.
-### How to reach me: parthupman@gmail.com
+I recently completed btech in cse from BIT MESRA
+- 🧰: I'm a product enthusiast
+- :telescope: I’m working on Full Stack web development and machine learning projects
+- :seedling: Exploring Backend tech stacks and Artifical Intelligence
 
 
