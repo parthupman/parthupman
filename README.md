@@ -25,7 +25,7 @@ and measuring when it can be trusted.*
 
 ### 👋 About
 
-I build machine learning systems and publish research on AI security and reliability.  
+I build machine learning systems and research on AI security and reliability.  
 My work centers on **machine unlearning** — making models forget on demand — and extends into the
 questions around it: what a model **leaks**, how it can be **attacked**, and when it can be **trusted**.
 
